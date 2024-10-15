@@ -1,4 +1,4 @@
-@include('header')
+@include('header',['title' => 'Home'])
 
 <main class="container mt-4">
     <section id="home" class="mb-4">
